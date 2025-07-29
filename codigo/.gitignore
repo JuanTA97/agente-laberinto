@@ -1,0 +1,15 @@
+# Carpetas que contienen archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+env/
+venv/
+
+# Configuración de editores de código (opcional)
+.vscode/
+.idea/
+
+# Archivos de logs o backups (opcional)
+*.log
+*.bak
